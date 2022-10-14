@@ -12,7 +12,7 @@ public class Greeting {
   public static void main(String[] args) {
 	Greeting greeter = new Greeting();
 	
-	String result = greeter.greet("world");
+	String result = greeter.greet("hello world");
 	
     System.out.print(result);	
   }
